@@ -1,8 +1,8 @@
-Store Transactions Full Analysis
-We will analysis whole dataset to get good insights from it !
-This is a store in US, people order lot of orders from all states in US.
-Consists of 1952 rows and 27 columns.
-Questions to answer: 
+# Store Transactions Full Analysis
+## We will analysis whole dataset to get good insights from it !
+### This is a store in US, people order lot of orders from all states in US.
+#### Consists of 1952 rows and 27 columns.
+**Questions to answer:**
 1. What is the distribution of days the order takes depends on it's priority ?!
 2. What is the most effective delivery  way ?!
 3. There is a relationship between priority and profit ?!
